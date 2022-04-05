@@ -3,6 +3,13 @@
 
 # 👻 need linux os 
 
+### compile 
+	$ cd client
+	$ make targ1
+	
+	
+
+
 server 실행방법 :	백그라운드로 실행시켜준다.
 		
 client 실행방법  : 
