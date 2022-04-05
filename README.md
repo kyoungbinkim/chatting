@@ -1,11 +1,13 @@
 // README.txt
 
 
-# 💻 need linux os
+# 👻 need linux os 
 
 server 실행방법 :	백그라운드로 실행시켜준다.
 		
-client 실행방법  :    	1. server IP를 argv로 입력
+client 실행방법  : 
+
+		1. server IP를 argv로 입력
 
 		2. 'login' 또는 'join'  입력
 		   (1) ' join' 입력시   회원가입 실행
