@@ -23,4 +23,4 @@ client 실행방법  :
 		4. 채팅방 입장후 q를 누르면 대기화면으로 나갈 수 있다. 
 
 
-<img src="/algoritm.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="algorithm"></img><br/>
+<img src="algoritm.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="algorithm"></img><br/>
