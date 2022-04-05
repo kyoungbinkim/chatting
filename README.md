@@ -21,3 +21,6 @@ client 실행방법  :
 		   (4) 채팅방 목록 : 채팅방 목록 확인
 
 		4. 채팅방 입장후 q를 누르면 대기화면으로 나갈 수 있다. 
+
+
+<img src="/algoritm.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
