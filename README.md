@@ -3,9 +3,14 @@
 
 # 👻 need linux os 
 
-### compile 
+### compile client
 	$ cd client
 	$ make targ1
+	
+### compile server
+	$ cd server
+	$ make targ1
+	
 	
 	
 
