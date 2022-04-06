@@ -1,7 +1,6 @@
-// README.txt
 
 
-# 👻 need linux os 
+### 👻 need linux os 
 
 ### compile client
 	$ cd client
